@@ -10,7 +10,5 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="D:/compre/jakarta.servlet-api-6.0.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/ingab/Downloads/javax.servlet-api-3.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ingab/Downloads/logger jrs/log4j-api-2.23.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ingab/Downloads/logger jrs/log4j-core-2.23.1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

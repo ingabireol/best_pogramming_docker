@@ -1,0 +1,15 @@
+2024-08-01 20:12:13 INFO  MyServlet:42 - Entered get Method
+2024-08-01 20:12:13 INFO  MyServlet:57 - Loaded postgresql driver
+2024-08-01 20:12:13 INFO  MyServlet:69 - The name is Nshimiyimana Jean and Id is 1
+2024-08-01 20:12:58 INFO  MyServlet:92 - Entered Post Method
+2024-08-01 20:12:59 INFO  MyServlet:115 - Inserted data in databse
+2024-08-01 20:13:22 INFO  MyServlet:42 - Entered get Method
+2024-08-01 20:13:22 INFO  MyServlet:57 - Loaded postgresql driver
+2024-08-01 20:13:22 INFO  MyServlet:73 - Id entered does not exist
+2024-08-01 20:13:33 INFO  MyServlet:42 - Entered get Method
+2024-08-01 20:13:33 ERROR MyServlet:46 - Id is invalid
+2024-08-01 20:13:47 INFO  MyServlet:92 - Entered Post Method
+2024-08-01 20:13:47 WARN  MyServlet:96 - Entered an invalid id
+2024-08-01 20:14:04 INFO  MyServlet:92 - Entered Post Method
+2024-08-01 20:14:04 ERROR MyServlet:124 - SQL exceptions caought : connection to db failed: org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "students_pkey"
+  Detail: Key (id)=(1) already exists.
